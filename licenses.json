@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-30T19:27:39",
+  "updated": "2026-05-30T19:33:10",
   "licenses": [
     {
       "hwid": "0CB791D7C6C8CD70",
-      "status": "revoked",
+      "status": "active",
       "expires_at": "lifetime",
       "plan": "Lifetime"
     }
