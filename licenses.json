@@ -1,11 +1,17 @@
 {
-  "updated": "2026-05-30T22:15:46",
+  "updated": "2026-06-24T14:53:31",
   "licenses": [
     {
       "hwid": "0CB791D7C6C8CD70",
       "status": "active",
       "expires_at": "lifetime",
       "plan": "Lifetime"
+    },
+    {
+      "hwid": "24CA9CE625428499",
+      "status": "active",
+      "expires_at": "2026-12-21",
+      "plan": "6 Months"
     }
   ]
 }
